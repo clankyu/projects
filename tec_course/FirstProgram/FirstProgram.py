@@ -1,0 +1,1 @@
+print("My first program".upper(), 2025, sep="*")

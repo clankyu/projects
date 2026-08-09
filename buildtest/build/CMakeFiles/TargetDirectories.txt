@@ -1,0 +1,3 @@
+/home/arch/programming/buildtest/build/CMakeFiles/main.dir
+/home/arch/programming/buildtest/build/CMakeFiles/edit_cache.dir
+/home/arch/programming/buildtest/build/CMakeFiles/rebuild_cache.dir

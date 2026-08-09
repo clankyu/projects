@@ -1,0 +1,3 @@
+name: Alex
+level: 2
+lives: 3
